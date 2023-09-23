@@ -77,7 +77,7 @@ outputs:
   type: svg_sch_print
   dir: image
   options:
-    output: '%f_V%sr--Schematic.svg'
+    output: '%f--Schematic.svg'
 
 - name: basic_render_3d_top
   comment: 3D view from top
